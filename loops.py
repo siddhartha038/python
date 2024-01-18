@@ -6,7 +6,7 @@ for color in colors:
 for k in range(20):
     print(k)
     
-count = 5
+count = 10
 while(count>0):
     print(count) 
 
