@@ -3,6 +3,7 @@ for i in range(12):
      print("Skip the iteration")  
      continue        
     print("5 *", i ,"=" , 5*(i))
-    
+
+# Program of continue Statement
     
     
