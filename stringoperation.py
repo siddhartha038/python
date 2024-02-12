@@ -1,4 +1,3 @@
-
 a = "Siddhartha Singh "
 print(a)
 print(len(a))
