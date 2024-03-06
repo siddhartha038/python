@@ -1,3 +1,4 @@
+
 countries = ("India", "Australia", "USA", "China", "Brazil")
 print(countries)
 temp=(list(countries))
