@@ -1,0 +1,17 @@
+def solve_linear_equation(a, b):
+    if a == 0:
+        if b == 0:
+            return "Infinite solutions (any value of x is a solution)"
+        else:
+            return "No solution (contradiction)"
+    else:
+        x = -b / a
+        return x
+
+# Taking input for the coefficients a and b
+a = float(input("Enter the coefficient a: "))
+b = float(input("Enter the coefficient b: "))
+
+solution = solve_linear_equation(a, b)
+
+print("Solution:", solution)
