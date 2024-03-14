@@ -1,3 +1,4 @@
+
 def display_ticket(passenger_name, train_name, seat_number):
     print("-------------------------------")
     print("|         TRAIN TICKET        |")
