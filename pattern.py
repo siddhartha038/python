@@ -1,3 +1,4 @@
+
 def print_pattern(rows):
     """
     Function to print a pyramid pattern of numbers.
