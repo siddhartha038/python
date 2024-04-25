@@ -1,3 +1,4 @@
+
 def series_sum(n):
     sum = 0
     sign = 1  # To alternate between addition and subtraction
