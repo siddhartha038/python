@@ -1,3 +1,4 @@
+
 tup = (1,65,45,54)
 print(type(tup),tup)
 
