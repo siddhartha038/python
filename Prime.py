@@ -1,3 +1,4 @@
+
 def is_prime(num):
     # If the number is less than 2, it's not prime
     if num < 2:
